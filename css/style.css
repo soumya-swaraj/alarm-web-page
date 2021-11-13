@@ -1,0 +1,10 @@
+#successfullymsg{
+    position: fixed;
+    top: 2px;
+    left: 2px;
+    right: 2px;
+}
+
+#container{
+    margin-top: 160px;
+}
