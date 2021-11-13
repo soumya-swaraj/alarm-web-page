@@ -23,7 +23,6 @@ function setAlarm(e) {
         else {
             afterTime = msec - nowmsec;
         }
-
         setTimeout(() => {
             ringAlarm();
         }, afterTime);
